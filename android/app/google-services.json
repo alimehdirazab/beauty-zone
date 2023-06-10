@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "914120971518",
+    "project_id": "beautyzone-74bf8",
+    "storage_bucket": "beautyzone-74bf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914120971518:android:0264dfd9e3a4fa353841af",
+        "android_client_info": {
+          "package_name": "com.example.zone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914120971518-hc0apgbqd42909q3jh3qsa6u35v86pap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zone",
+            "certificate_hash": "2bff75c36c7a4727288d85ff7981857512c7d2de"
+          }
+        },
+        {
+          "client_id": "914120971518-rj8timl69ksu36tomjppsm8ei75qbqap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_YbJONbrB6Ef-EKTfB1jUqlP0riKpwIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914120971518-rj8timl69ksu36tomjppsm8ei75qbqap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
